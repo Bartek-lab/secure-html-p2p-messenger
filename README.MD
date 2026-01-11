@@ -77,19 +77,3 @@ The fundamental challenge this project explores:
 2. Double-click / open in browser (works from `file://`)
 3. Follow on-screen instructions
 4. Use copy-paste carefully or use pastebin/raw link as transport
-
-## License
-
-MIT License  
-Do whatever you want — just don't blame the author when copy-paste ruins your day.
-
-## Next Possible Steps
-
-The project is intentionally minimal, but potential improvements include:
-
-- Making copy-paste more robust (QR codes, file drag&drop, clipboard watcher…)
-- Nicer error messages and recovery guidance
-- Better visual feedback during connection process
-- Optional ephemeral self-destruct timer
-- Support for very restrictive corporate networks
-- Experiments with alternative manual signaling formats
